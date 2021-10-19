@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Gaegu&display=swap');
+header{
+  background-color: #90AACB;
+}
+body{
+  margin: 0 auto;
+  font-family: 'Gaegu';
+
+}
+main {
+  margin: 0 auto;
+  text-align: center;
+  width:100%;
+  font-family: 'Gaegu';
+  }
+
+.pembukaan{
+  background-color: #FEF1E6;
+  background-size: cover;
+  padding-bottom: 100px;
+}
+.isi{
+  background-color: #F9D5A7;
+  padding-bottom: 200px;
+}
+.produk h1{
+  padding-top: 20px;
+  text-align: ;
+}
+.wrapper{
+  width:100%;
+  text-align: center;
+  background-color: #FFB085;
+}
+.wrapper h4{
+  font-size: 38px;
+  margin:0px;
+}
+.wrapper p {
+  font-size: 16px;
+  margin-top:0px;
+  text-align: center;
+  }
+form{
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #FFB085;
+  font-family: 'Gaegu';
+
+}
+input, textarea{
+  width: 440px;
+  padding: 12px;
+  margin: 0 auto;
+  font-size: 16px;
+  border: 1px solid #dee7ec;
+  border-radius: 16px;
+  font-family: 'Gaegu';
+  }
+textarea{
+  height: 105px;
+}
+.btn {
+  padding: 20px;
+  color: black;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 auto;
+  font-family: 'Gaegu';
+  }
+  
+.btn:hover {
+  opacity: 1;
+  }
+.ulasan_data{
+  margin-left:110px;
+  margin-right: 10px;
+}
+.ulasan_kirim{
+  margin-left: 10px;
+  margin-right:px;
+}
+.message {
+  margin-top: 32px;
+  padding: 10px 32px;
+  background-color: #FEF1E6;
+  cursor: pointer;
+  display: inline-block;
+  box-shadow: 0 5px #F9D5A7;
+  }
+.message:active{
+  box-shadow: none;
+  position: relative;
+  top: 5px;
+  }
+ul{
+  list-style: none;
+  padding-right: 35px;
+  text-align: center;
+  font-size: 16px;
+  display: flex;
+  flex-wrap: wrap;
+}
+li{
+  flex: auto;
+}
+.ket{
+  margin-bottom:0px;
+}
+footer{
+  background-color:#90AACB;
+  padding:60px;
+}
